@@ -1,8 +1,8 @@
 {
   "title": "Anforderungsprofil Klimaschutzmanagerin",
   "subtitle": "Interview mit einer Klimaschutzmanagerin, um ein Anforderungsprofil für die Stelle zu entwickeln",
-  "model-name": "Gemma 4 31B Instruct",
-  "model": "gemma-4-31b-it",
+  "model-name": "Qwen 3.6 35B A3B",
+  "model": "qwen3.6-35b-a3b",
   "temperature": 1.0,
   "top_p": 0.95,
   "messages": [
