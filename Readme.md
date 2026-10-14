@@ -1,6 +1,6 @@
 ## Persona für Academic Cloud Chat AI
 
-Bisher nur eine Persona für die Vertiefungsveranstaltung, Sitzung Personalauswahl
+Bisher zwei Persona für die Vertiefungsveranstaltung, Sitzungen Personalauswahl (Interview Anforderungsprofil) und Personaleinsatz (Home Office)
 
 Persona: Klimaschutzmanagerin, die ihre Stelle verlässt und berichten soll, was man für Kompetenzen benötigt.
 
