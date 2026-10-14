@@ -1,8 +1,8 @@
 {
   "title": "Rollenspiel Homeoffice-Neuregelung",
   "subtitle": "Gespräch zwischen der Oberbürgermeisterin Frau Gutherz und der Personalamtsleiterin Frau Zernow über die Einführung von Homeoffice",
-  "model-name": "Qwen 3.6 35B A3B",
-  "model": "qwen3.6-35b-a3b",
+  "model-name": "GLM 5.3 Flash",
+  "model": "glm-5.3-flash",
   "temperature": 1.0,
   "top_p": 0.95,
   "messages": [
